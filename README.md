@@ -26,7 +26,7 @@ Nhập tên người dùng/email và mật khẩu của bạn.
 (Tùy chọn) Chọn tùy chọn "Ghi nhớ Tôi" để tiện lợi hơn.
 Nhấp vào nút "Đăng nhập" để truy cập vào tài khoản của bạn.
 Phản Hồi và Hỗ Trợ
-Chúng tôi rất trân trọng ý kiến phản hồi của bạn! Nếu bạn gặp bất kỳ vấn đề hoặc có gợi ý để cải thiện về trang đăng nhập của chúng tôi, đừng ngần ngại liên hệ với đội ngũ hỗ trợ của chúng tôi tại siêu. Chúng tôi luôn sẵn lòng hỗ trợ bạn trong mọi bước.
+Chúng tôi rất trân trọng ý kiến phản hồi của bạn! Nếu bạn gặp bất kỳ vấn đề hoặc có gợi ý để cải thiện về trang đăng nhập của chúng tôi, đừng ngần ngại liên hệ với đội ngũ hỗ trợ của chúng tôi tại sieunhan3668@gmail.com. Chúng tôi luôn sẵn lòng hỗ trợ bạn trong mọi bước.
 
 Cảm ơn bạn đã lựa chọn nền tảng của chúng tôi! Chúng tôi hy vọng mang lại cho bạn trải nghiệm đăng nhập tuyệt vời nhất.
 
